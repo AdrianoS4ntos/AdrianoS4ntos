@@ -146,6 +146,16 @@ Coleção de exercícios desenvolvidos durante meus estudos de Python, explorand
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdrianoS4ntos&bg_color=0D1117&color=FFFFFF&line=00FF88&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
+<br><br>
+
+<h2>🐍 SNAKE CONTRIBUTIONS</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdrianoS4ntos/AdrianoS4ntos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdrianoS4ntos/AdrianoS4ntos/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/AdrianoS4ntos/AdrianoS4ntos/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake">
+</picture>
+
 </div>
 
 <br>
