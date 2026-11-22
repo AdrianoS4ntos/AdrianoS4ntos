@@ -81,45 +81,6 @@ aprimorar minhas habilidades e evoluir continuamente na área de tecnologia.
 
 <td width="50%" valign="top">
 
-### 🧮 Calculadora Python
-
-Calculadora gráfica desenvolvida com Python e Tkinter, com interface personalizada e operações matemáticas.
-
-**Tecnologias**
-
-`Python` `Tkinter`
-
-<br>
-
-<a href="https://github.com/AdrianoS4ntos">
-<img src="https://img.shields.io/badge/VER%20PROJETO-0B5D35?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🐍 Desafios Python
-
-Coleção de exercícios desenvolvidos durante meus estudos de Python, explorando lógica de programação e fundamentos da linguagem.
-
-**Tecnologias**
-
-`Python` `Lógica`
-
-<br>
-
-<a href="https://github.com/AdrianoS4ntos/desafios-python">
-<img src="https://img.shields.io/badge/VER%20PROJETO-0B5D35?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-<tr>
-
-<td valign="top" colspan="2">
-
 ### 🚚 JSL Maquete 3D
 
 Simulação interativa 3D desenvolvida para apresentar operações logísticas e indicadores reais de sustentabilidade e reciclagem da JSL, com suporte a dispositivos móveis e narração interativa.
@@ -136,6 +97,57 @@ Simulação interativa 3D desenvolvida para apresentar operações logísticas e
 <a href="https://adrianos4ntos.github.io/JSL-Maquete/">
 <img src="https://img.shields.io/badge/DEMO%20AO%20VIVO-0B5D35?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 Zap Dev Agent
+
+Agente local de desenvolvimento orquestrado via WhatsApp (Baileys) que integra Claude Code, Git e Cloudflare Tunnel para executar tarefas de código, gerenciar branches, abrir previews temporários e realizar commits/pushes remotamente pelo celular.
+
+**Tecnologias**
+
+`Node.js` `TypeScript` `Baileys` `Claude Code` `Cloudflare Tunnel` `Git`
+
+<br>
+
+<img src="https://img.shields.io/badge/PROJETO%20PRIVADO-0B5D35?style=for-the-badge&logo=github&logoColor=white"/>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 💼 Job API
+
+API backend desenvolvida para agregação e gerenciamento de vagas, deduplicação inteligente, paginação, cache e documentação interativa com banco de dados relacional.
+
+**Tecnologias**
+
+`Node.js` `TypeScript` `Fastify` `PostgreSQL` `Drizzle ORM` `Swagger`
+
+<br>
+
+<img src="https://img.shields.io/badge/PROJETO%20PRIVADO-0B5D35?style=for-the-badge&logo=github&logoColor=white"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛠️ Central TI
+
+Plataforma interna de gestão de chamados e suporte técnico corporativo com notificações em tempo real (SSE), painel administrativo e módulo de suporte remoto integrado com RustDesk.
+
+**Tecnologias**
+
+`TypeScript` `React` `Node.js` `PostgreSQL` `Docker` `RustDesk`
+
+<br>
+
+<img src="https://img.shields.io/badge/SISTEMA%20CORPORATIVO-0B5D35?style=for-the-badge&logoColor=white"/>
 
 </td>
 
