@@ -116,6 +116,30 @@ Coleção de exercícios desenvolvidos durante meus estudos de Python, explorand
 </td>
 
 </tr>
+<tr>
+
+<td valign="top" colspan="2">
+
+### 🚚 JSL Maquete 3D
+
+Simulação interativa 3D desenvolvida para apresentar operações logísticas e indicadores reais de sustentabilidade e reciclagem da JSL, com suporte a dispositivos móveis e narração interativa.
+
+**Tecnologias**
+
+`HTML` `CSS` `JavaScript` `Three.js`
+
+<br>
+
+<a href="https://github.com/AdrianoS4ntos/JSL-Maquete">
+<img src="https://img.shields.io/badge/VER%20PROJETO-0B5D35?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://adrianos4ntos.github.io/JSL-Maquete/">
+<img src="https://img.shields.io/badge/DEMO%20AO%20VIVO-0B5D35?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
 </table>
 
 <br>
